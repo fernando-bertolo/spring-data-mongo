@@ -1,13 +1,13 @@
-package org.talkevents.springjpamongo;
+package org.talkevents.springdatamongo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringJpaMongoApplication {
+public class SpringDataMongoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringJpaMongoApplication.class, args);
+        SpringApplication.run(SpringDataMongoApplication.class, args);
     }
 
 }

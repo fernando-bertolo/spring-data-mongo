@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.talkevents</groupId>
-    <artifactId>spring-jpa-mongo</artifactId>
+    <artifactId>spring-data-mongo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-jpa-mongo</name>
     <description>spring-jpa-mongo</description>

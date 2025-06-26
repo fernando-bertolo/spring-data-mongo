@@ -1,10 +1,10 @@
-package org.talkevents.springjpamongo.controllers;
+package org.talkevents.springdatamongo.controllers;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.talkevents.springjpamongo.documents.User;
-import org.talkevents.springjpamongo.services.UserService;
+import org.talkevents.springdatamongo.documents.User;
+import org.talkevents.springdatamongo.services.UserService;
 
 import java.util.List;
 

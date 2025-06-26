@@ -1,10 +1,10 @@
-package org.talkevents.springjpamongo.services;
+package org.talkevents.springdatamongo.services;
 
 import org.springframework.stereotype.Service;
-import org.talkevents.springjpamongo.documents.Address;
-import org.talkevents.springjpamongo.documents.User;
-import org.talkevents.springjpamongo.repositories.AddressRepository;
-import org.talkevents.springjpamongo.repositories.UserRepository;
+import org.talkevents.springdatamongo.documents.Address;
+import org.talkevents.springdatamongo.documents.User;
+import org.talkevents.springdatamongo.repositories.AddressRepository;
+import org.talkevents.springdatamongo.repositories.UserRepository;
 
 import java.util.List;
 import java.util.Objects;
