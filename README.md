@@ -29,8 +29,8 @@ Antes de executar o projeto, atende-se com os seguintes detalhes:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/fernando-bertolo/spring-jpa-mongo.git
-cd spring-jpa-mongo
+git clone https://github.com/fernando-bertolo/spring-data-mongo.git
+cd spring-data-mongo
 ```
 
 ### 2. Inicie o MongoDB com Docker Compose
